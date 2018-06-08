@@ -1,0 +1,87 @@
+*{
+	margin:0px auto;
+}
+.wrapper
+{
+	width:600px;
+	height:820px;
+	background-color:#FFFFFF;
+	display: overflow;
+	}
+.space{
+	width:600px;
+	height:50px;
+	display: overflow;
+}
+.com_title{
+	width:600px;
+	height:100px;
+	display: overflow;
+}
+
+	.logo{
+		width:100px;
+		height:100px;
+		display: overflow;
+		float:left;
+	}
+	.header{
+		width:500px;
+		height:100px;
+		display: overflow;
+		float:left;
+		font-size:18px;
+		
+	}
+	h2{font-size:21px;padding-top:10px; text-align:center;}
+	h3{font-size:15px;
+	text-align:center;}
+	hr{height:3px;color:#000000;}
+.rep_title{
+	width:600px;
+	height:60px;
+	display: overflow;
+	padding-top:10px;
+}
+.rep_date{
+	width:600px;
+	height:60px;
+	display:overflow;
+}
+	
+.comp_content{
+	width:600px;
+	height:400px;
+	display: overflow;
+	font-size:18px;
+}
+.rep_footer{
+	
+	width:600px;
+	height:80px;
+	display: overflow;
+}
+
+	.lr1{
+		width:350px;
+		height:80px;
+		display: overflow;
+		float:left;
+		padding-top:50px;
+	}
+	.lr2{
+		width:250px;
+		height:80px;
+		display: overflow;
+		float:left;
+		font-size:18px;
+		text-align:center;
+		
+	}
+	.faka{width:600px;height:50px;}
+.rep_button{
+	
+	width:600px;
+	height:20px;
+	display: overflow;
+}

@@ -1,0 +1,1 @@
+<center style=""><p style="color:black;font-size:15px;background-color:#944ddf;width:900px;">Powered By: CSE Department, DUET.</p>

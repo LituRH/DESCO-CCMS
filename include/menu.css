@@ -1,0 +1,66 @@
+#ddblueblockmenu {
+	border: 1px solid;
+	border-bottom-width: 0;
+	width: 180px;
+	background-color:#a3c2c2;
+}
+
+#ddblueblockmenu ul{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+		font-family: 'codropsicons';
+	src:url('../fonts/codropsicons/codropsicons.eot');
+	src:url('../fonts/codropsicons/codropsicons.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/codropsicons/codropsicons.woff') format('woff'),
+		url('../fonts/codropsicons/codropsicons.ttf') format('truetype'),
+		url('../fonts/codropsicons/codropsicons.svg#codropsicons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	
+	
+}
+
+#ddblueblockmenu li a{
+	display: block;
+	padding: 3px 0;
+	padding-left: 9px;
+	width: 172px; /*185px minus all left/right paddings and margins*/
+	text-decoration: none;
+	color: #001a1a;
+	height:20px;
+	background-color:#6600f;
+	border-bottom: 1.5px solid white;
+}
+
+
+
+#ddblueblockmenu li a:hover {
+	background-color:#990033;
+	border-left-color: #1c64d1;
+	font-family: 'codropsicons';
+	src:url('../fonts/codropsicons/codropsicons.eot');
+	src:url('../fonts/codropsicons/codropsicons.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/codropsicons/codropsicons.woff') format('woff'),
+		url('../fonts/codropsicons/codropsicons.ttf') format('truetype'),
+		url('../fonts/codropsicons/codropsicons.svg#codropsicons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+#ddblueblockmenu div.menutitle{
+	color: #001a1a;
+	border-bottom: 1px solid white;
+	padding: 1px 0;
+	padding-left: 5px;
+	background-color: green;
+		font-family: 'codropsicons';
+	src:url('../fonts/codropsicons/codropsicons.eot');
+	src:url('../fonts/codropsicons/codropsicons.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/codropsicons/codropsicons.woff') format('woff'),
+		url('../fonts/codropsicons/codropsicons.ttf') format('truetype'),
+		url('../fonts/codropsicons/codropsicons.svg#codropsicons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-size:17px;
+}
